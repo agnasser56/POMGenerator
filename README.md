@@ -1,5 +1,5 @@
 # POMGenerator
-This Utiltiy allows you to generate the necessary code in the form of POM(Page Object Model), it takes the HTML of the page you want to generate the POM to and generate the code in multiple supported formats including:
+This Utiltiy developed in C#, allows you to generate the necessary code in the form of POM(Page Object Model), it takes the HTML of the page you want to generate the POM to and generate the code in multiple supported formats including:
   1- Selenium C#.
   2- Selenium Java.
   3- Robot Framework.
