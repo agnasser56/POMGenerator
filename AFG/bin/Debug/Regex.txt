@@ -1,0 +1,1 @@
+(?<varName>\w+).=.testBrowser.*WebElementDescription\n.*\n(?<idenPropName>.*\")

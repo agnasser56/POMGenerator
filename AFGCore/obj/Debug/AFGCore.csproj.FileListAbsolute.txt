@@ -1,0 +1,10 @@
+c:\Users\Admin_2\documents\visual studio 2015\Projects\AFG\AFGCore\bin\Debug\AFGCore.dll
+c:\Users\Admin_2\documents\visual studio 2015\Projects\AFG\AFGCore\bin\Debug\AFGCore.pdb
+c:\Users\Admin_2\documents\visual studio 2015\Projects\AFG\AFGCore\bin\Debug\HtmlAgilityPack.dll
+c:\Users\Admin_2\documents\visual studio 2015\Projects\AFG\AFGCore\obj\Debug\AFGCore.dll
+c:\Users\Admin_2\documents\visual studio 2015\Projects\AFG\AFGCore\obj\Debug\AFGCore.pdb
+D:\Cognizant\AutomationFramework\ASG\AFGCore\bin\Debug\AFGCore.dll
+D:\Cognizant\AutomationFramework\ASG\AFGCore\bin\Debug\AFGCore.pdb
+D:\Cognizant\AutomationFramework\ASG\AFGCore\obj\Debug\AFGCore.csprojResolveAssemblyReference.cache
+D:\Cognizant\AutomationFramework\ASG\AFGCore\obj\Debug\AFGCore.dll
+D:\Cognizant\AutomationFramework\ASG\AFGCore\obj\Debug\AFGCore.pdb

@@ -1,0 +1,28 @@
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.csproj.ResolveComReference.cache
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.Form1.resources
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.frmDesign.resources
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.Properties.Resources.resources
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.csproj.GenerateResource.Cache
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\AFG.exe.config
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\AFG.exe
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\AFG.pdb
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\AFGCore.dll
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\Faker.dll
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\HtmlAgilityPack.dll
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\bin\Debug\AFGCore.pdb
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.csprojResolveAssemblyReference.cache
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.exe
+c:\users\admin_2\documents\visual studio 2015\Projects\AFG\AFG\obj\Debug\AFG.pdb
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\AFG.exe.config
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\AFG.exe
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\AFG.pdb
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\AFGCore.dll
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\Faker.dll
+D:\Cognizant\AutomationFramework\ASG\AFG\bin\Debug\AFGCore.pdb
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.csprojResolveAssemblyReference.cache
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.csproj.ResolveComReference.cache
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.frmDesign.resources
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.Properties.Resources.resources
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.csproj.GenerateResource.Cache
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.exe
+D:\Cognizant\AutomationFramework\ASG\AFG\obj\Debug\AFG.pdb
